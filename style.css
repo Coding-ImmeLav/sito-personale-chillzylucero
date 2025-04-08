@@ -7,7 +7,7 @@
 }
 
 footer {
-    background-color: rgb(242, 9, 9);
+    background-color: rgb(148, 16, 146);
     padding-top: 1%;
     padding-bottom: 1%;
 }
@@ -25,5 +25,18 @@ footer {
 
 .passioni {
     height: 80vh;
-    background-color: rgb(94, 14, 30);
+    background-color: rgb(208, 151, 238);
+}
+
+.foglio {
+    padding: 3%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    border: 1px solid black;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
 }
